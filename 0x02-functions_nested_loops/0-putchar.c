@@ -7,6 +7,7 @@
 
 int main(void)
 {
+print_alphabet();
 _putchar('_');
 _putchar('p');
 _putchar('u');
