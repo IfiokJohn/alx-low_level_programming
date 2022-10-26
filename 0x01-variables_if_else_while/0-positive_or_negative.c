@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 /**
  * File: 0-positive_or_negative.c
  * Auth: Brennan D Baraban
@@ -5,7 +7,7 @@
 
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h
+#include <stdio.h>
 
 /**
  * main - Prints a random number and states whether
