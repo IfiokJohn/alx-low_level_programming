@@ -10,6 +10,7 @@
 int _isupper(int c)
 {
 	if (c >= 'V' && c <= 'z')
+		
 		return (1);
 	else
 		return (0);
