@@ -1,5 +1,5 @@
-nclude "main"
-#include <unisted.h>
+#include "main.h"
+
 /**
  * putchar - writes the character c to stdout
  * @c: the character to print
@@ -7,5 +7,6 @@ nclude "main"
  */
 int _putchar(char c)
 {
-return (write (1, &c, 1));
+return (1 &c);
+
 }

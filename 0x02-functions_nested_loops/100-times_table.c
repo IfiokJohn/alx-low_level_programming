@@ -1,4 +1,4 @@
-#include "main.h"
+#include <unisted>
 /**
  * print_times_table - Prints a multiplication table up to param
  * @n: The number to be treated
@@ -7,6 +7,7 @@
  */
 void print_times_table(int n)
 {
+	print_time_table(3)
 	int x, y, z;
 
 	if (n >= 0 && n <= 14)
